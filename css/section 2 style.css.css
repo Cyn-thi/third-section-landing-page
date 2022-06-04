@@ -1,0 +1,48 @@
+.container {
+    width: 100%;
+}
+
+.left-mkutano-section {
+    padding-top: 60px;
+    background-color: #329472;
+    min-height: 90vh;
+    color: #fff;
+    font-family: 'Montserrat', 'sans-sherif';
+    text-align: justify;
+    
+}
+
+.left-mkutano-section .bigger {
+    margin-left: 70px;
+}
+
+.left-mkutano-section .second-part h3 {
+    font-size: 18px;
+}
+
+.right-mkutano-section img {
+    width: 100%;
+    min-height: 90vh;
+}
+
+#mkutano-section {
+    width: 100%;
+}
+
+.left-mkutano-section .color {
+    color: #B91869;
+}
+
+.left-mkutano-section h1 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.left-mkutano-section .lorem-part p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+.left-mkutano-section .lorem-part .thick {
+    font-weight: bold;
+}
